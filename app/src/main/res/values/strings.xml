@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+    <string name="btn_go">Let\'s start</string>
+    <string name="wlc_txt">Ready to push you\'re limits</string>
+</resources>
